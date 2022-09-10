@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body
+{
+    background-color:#1a1a1a;
+     font-family: 'Roboto';
+}
+.navigation{
+    height: 100px;
+    width:calc(100% - 500px);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}.links{
+}
+.link
+{
+    color: whitesmoke;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: large;
+    margin: 0 15px;
+}
+.contact-us{
+    border: none;
+    font-size: large;
+    background-color: #9cfceb;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 7px #9cfceb;
+}
+.body{
+    height:calc(100vh - 100px );
+    width:calc(100% - 500px);
+    margin: 0 auto;
+    display: flex;
+}
+.image,.about_text{
+    height:100%;
+    width: 100%;
+}
+.image{
+    background-color: #1a1a1a;
+    border-radius: 10%;
+    border: #9cfceb;
+}
+.about_text{
+}   
+.name{
+font-size: 30px;
+padding: 90px;
+color: #9cfceb;
+}
+.details{
+    text-transform: capitalize;
+    font-size: 90px;
+    padding: 10px;
+    color: whitesmoke
+}
+.orign{
+    text-transform:capitalize ;
+    font-size: 90px;
+    padding: 10px;
+    color: #9cfceb;
+}
+.para{
+    font-size: x-large;
+    padding: 10px;
+    color: whitesmoke;
+}
+.download{
+    border: 5px;
+    font-size: large;
+    padding: 10px;
+    color : #9cfceb;
+    background-color: #1a1a1a;
+    box-shadow: 0 0  10px#9cfceb;
+    border-radius:  10px;
+    margin: 10px;
+
+}
