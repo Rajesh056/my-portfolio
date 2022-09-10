@@ -52,8 +52,8 @@ body
 }   
 .name{
 font-size: 30px;
-padding: 90px;
 color: #9cfceb;
+padding: 1px
 }
 .details{
     text-transform: capitalize;
@@ -74,7 +74,7 @@ color: #9cfceb;
 }
 .download{
     border: 5px;
-    font-size: large;
+    font-size: large;s
     padding: 10px;
     color : #9cfceb;
     background-color: #1a1a1a;
